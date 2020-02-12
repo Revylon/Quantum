@@ -20,8 +20,6 @@ VECTOR_EXP = []
 TOLL = 10
 ENERGY_ROOTS = []
 ME = (c.m_e.to(u.g)).value
-
-
 H = c.hbar.to(u.erg*u.s).value # Значение постоянной планка (СГС)
 
 
